@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+moviepy<2.0
+openai-whisper
+torch
+torchaudio
+pip
+language_tool_python
+textstat
